@@ -1,5 +1,7 @@
 # WinApk — Windows 原生安卓 GSI 虚拟机管理器
 
+> 📦 仓库地址：https://github.com/RoutineMiku/winapk
+
 把"在安卓上运行 GSI 虚拟机"的体验带到 Windows 桌面：导入 GSI/ISO 镜像，一键启动一台完整的安卓虚拟机。
 
 ## 功能
