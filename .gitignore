@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 构建产物
+build/
+dist/
+*.spec.bak
+
+# 大文件与下载缓存（QEMU 安装包等）
+downloads/
+
+# 运行时数据
+*.qcow2
+*.img
+*.iso
+
+# IDE
+.idea/
+.vscode/
+
+# 系统
+Thumbs.db
+.DS_Store
